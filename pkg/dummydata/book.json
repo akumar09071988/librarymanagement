@@ -1,0 +1,102 @@
+[
+  {
+    "id": "5d688b9f4001c592c1b2cda4",
+    "name": "TECHTRIX",
+    "isbn": 1,
+    "type": "nonfiction",
+    "author": {
+      "firstname": "Haney",
+      "lastname": "Jacobs"
+    }
+  },
+  {
+    "id": "5d688b9f89d2c16fae65cb44",
+    "name": "QUILTIGEN",
+    "isbn": 2,
+    "type": "sci-fi",
+    "author": {
+      "firstname": "Carr",
+      "lastname": "Dejesus"
+    }
+  },
+  {
+    "id": "5d688b9ffda824d88fc8ecd9",
+    "name": "ZAGGLES",
+    "isbn": 3,
+    "type": "sci-fi",
+    "author": {
+      "firstname": "Jarvis",
+      "lastname": "Ortiz"
+    }
+  },
+  {
+    "id": "5d688b9fb893547e16306e6e",
+    "name": "DYMI",
+    "isbn": 4,
+    "type": "fiction",
+    "author": {
+      "firstname": "Christina",
+      "lastname": "Casey"
+    }
+  },
+  {
+    "id": "5d688b9fda06f61948aa29b9",
+    "name": "ORBALIX",
+    "isbn": 5,
+    "type": "fiction",
+    "author": {
+      "firstname": "Page",
+      "lastname": "Mejia"
+    }
+  },
+  {
+    "id": "5d688b9f76a416520aaa007f",
+    "name": "SCHOOLIO",
+    "isbn": 6,
+    "type": "nonfiction",
+    "author": {
+      "firstname": "Neal",
+      "lastname": "Perkins"
+    }
+  },
+  {
+    "id": "5d688b9f9622461e7a9cfa2b",
+    "name": "NORSUP",
+    "isbn": 7,
+    "type": "sci-fi",
+    "author": {
+      "firstname": "Noemi",
+      "lastname": "Gibson"
+    }
+  },
+  {
+    "id": "5d688b9fdb6b060439c15d7d",
+    "name": "FROSNEX",
+    "isbn": 8,
+    "type": "nonfiction",
+    "author": {
+      "firstname": "Leach",
+      "lastname": "Cook"
+    }
+  },
+  {
+    "id": "5d688b9f8531eee3acc7470e",
+    "name": "SURELOGIC",
+    "isbn": 9,
+    "type": "nonfiction",
+    "author": {
+      "firstname": "Palmer",
+      "lastname": "Bird"
+    }
+  },
+  {
+    "id": "5d688b9fb2284120c6c11d6e",
+    "name": "PERKLE",
+    "isbn": 10,
+    "type": "fiction",
+    "author": {
+      "firstname": "Moon",
+      "lastname": "Mcknight"
+    }
+  }
+]
